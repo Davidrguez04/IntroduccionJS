@@ -58,3 +58,18 @@ function undefined(){
 
      document.write(typeof(variableVacia));
      }
+     
+     //null
+function nulll(){
+     let nulo = null;
+     let vacio;
+     document.write(nulo);
+     document.write(typeof(nulo));
+     }
+     //Object
+ function object(){
+     let Objeto = new Object();
+    
+
+document.write(Objeto);
+}
